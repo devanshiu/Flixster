@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/devanshiu/Flixster/raw/master/flixster%20demo.gif' title='Flixster Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devanshiu/Flixster/blob/master/flixster%20demo%20take%202.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
